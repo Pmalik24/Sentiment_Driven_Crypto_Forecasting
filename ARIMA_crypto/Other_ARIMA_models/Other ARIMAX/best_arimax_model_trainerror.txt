@@ -1,0 +1,20 @@
+Features used:
+Market_Cap_diff, open_diff, high_diff, low_diff, 2yr_yield, 5yr_yield, 7yr_yield
+Best Models:
+aave: Error = 47.19681132726612
+algo: Error = 1.117507185314115
+atom: Error = 41.970632590333665
+btc: Error = 60.88641975956058
+dai: Error = 0.2198596516824594
+etc: Error = 1.6140212339125226
+eth: Error = 42.142772540709245
+fil: Error = 73.50405973909922
+knc: Error = 4.100617690344836
+link: Error = 26.036731021910747
+snx: Error = 16.245809564028903
+uma: Error = 6.936926096157686
+uni: Error = 30.69596513155281
+wbtc: Error = 119.39799079409596
+yfi: Error = 61.985236283401804
+zec: Error = 68.51616177590074
+zrx: Error = 0.3869469744607911

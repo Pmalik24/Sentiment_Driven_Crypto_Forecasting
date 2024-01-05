@@ -1,0 +1,123 @@
+Features used:
+Close_diff Time Series
+Best Models:
+aave: Error = 225.3320995950458
+algo: Error = 2.9172978190691237
+atom: Error = 229.63511841256903
+btc: Error = 107.67555532995236
+dai: Error = 0.10799694301427794
+etc: Error = 5.4391479807473875
+eth: Error = 101.4878790135015
+fil: Error = 112.33663176380999
+knc: Error = 7.089241408596562
+link: Error = 261.1968949781843
+snx: Error = 191.1394403957295
+uma: Error = 49.79553607402524
+uni: Error = 144.83293066983487
+wbtc: Error = 107.93811204212642
+yfi: Error = 107.54035468239513
+zec: Error = 223.17100015638022
+zrx: Error = 2.6685183624434083
+Features used:
+Market_Cap_diff, open_diff, high_diff, low_diff, 2yr_yield, 5yr_yield, 7yr_yield
+Best Models:
+aave: Error = 47.19681132726612
+algo: Error = 1.117507185314115
+atom: Error = 41.970632590333665
+btc: Error = 60.88641975956058
+dai: Error = 0.2198596516824594
+etc: Error = 1.6140212339125226
+eth: Error = 42.142772540709245
+fil: Error = 73.50405973909922
+knc: Error = 4.100617690344836
+link: Error = 26.036731021910747
+snx: Error = 16.245809564028903
+uma: Error = 6.936926096157686
+uni: Error = 30.69596513155281
+wbtc: Error = 119.39799079409596
+yfi: Error = 61.985236283401804
+zec: Error = 68.51616177590074
+zrx: Error = 0.3869469744607911
+Features used:
+Market_Cap_diff, open_diff, high_diff, low_diff
+Best Models:
+aave: Error = 46.997237892721444
+algo: Error = 1.1057012364914895
+atom: Error = 41.777513478482305
+btc: Error = 61.51271277778476
+dai: Error = 0.08772843065229174
+etc: Error = 1.669292121664666
+eth: Error = 57.817313960517104
+fil: Error = 72.12994527434823
+knc: Error = 4.102423542893837
+link: Error = 26.85301726722638
+snx: Error = 16.22563793094638
+uma: Error = 7.239451974023655
+uni: Error = 31.248752644888256
+wbtc: Error = 119.71346770112581
+yfi: Error = 58.94387116562931
+zec: Error = 65.4682443259148
+zrx: Error = 0.37924824110547506
+Features used:
+open_diff, high_diff, low_diff
+Best Models:
+aave: Error = 204.66700619887544
+algo: Error = 1.7443007214317823
+atom: Error = 140.42206429080653
+btc: Error = 253.7095613778559
+dai: Error = 0.2307001658101035
+etc: Error = 2.6033714654299973
+eth: Error = 173.59123036495896
+fil: Error = 61.41254404054034
+knc: Error = 4.118774021646213
+link: Error = 88.43987718371413
+snx: Error = 72.69884638494187
+uma: Error = 23.317748686894465
+uni: Error = 63.060416159899745
+wbtc: Error = 324.75641200609164
+yfi: Error = 259.8040841486424
+zec: Error = 137.61980685860098
+zrx: Error = 1.5160044365492513
+Features used:
+Market_Cap_diff, open_diff
+Best Models:
+aave: Error = 51.322472668883975
+algo: Error = 1.1386202673426489
+atom: Error = 42.77099774272369
+btc: Error = 61.25710764854637
+dai: Error = 0.570081696189224
+etc: Error = 1.2277940253273898
+eth: Error = 58.526927257089156
+fil: Error = 85.10136784347397
+knc: Error = 7.072476937759549
+link: Error = 32.01449475559514
+snx: Error = 16.972451528985275
+uma: Error = 7.400880820602623
+uni: Error = 30.564795436998143
+wbtc: Error = 159.93077446614984
+yfi: Error = 58.150342640607214
+zec: Error = 62.5413518269442
+zrx: Error = 0.3775419112947372
+Features used:
+Market_Cap_diff, open_diff, high_diff
+Best Models:
+aave: Error = 51.148366604648444
+algo: Error = 1.1118312795086758
+atom: Error = 42.750657399017264
+btc: Error = 61.78804199298765
+dai: Error = 0.5715204204650766
+etc: Error = 1.7394430041403994
+eth: Error = 58.57369994222904
+fil: Error = 77.53367310562574
+knc: Error = 5.152723197566343
+link: Error = 27.241701318753396
+snx: Error = 16.97180334047445
+uma: Error = 7.309760360271744
+uni: Error = 26.93257354462441
+wbtc: Error = 151.37086839493105
+yfi: Error = 58.89266264203883
+zec: Error = 64.72476139003018
+zrx: Error = 0.3791444871734258
+
+
+Identified the best parameters using a grid search with combinations of pdq in range 4. 

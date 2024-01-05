@@ -1,0 +1,20 @@
+Features used:
+Market Cap, open, high, low, 2yr_yield, 5yr_yield, 7yr_yield, positive, negative, neutral
+Best Models:
+aave: Error = 0.038732446603679554
+algo: Error = 0.0004180522377562398
+atom: Error = 0.0047685533616320195
+btc: Error = 0.31147760705963945
+dai: Error = 0.0006375671150019028
+etc: Error = 0.00922009824653477
+eth: Error = 0.4353008017754804
+fil: Error = 0.01827778876941047
+knc: Error = 0.0010467995004423444
+link: Error = 0.004467036628704446
+snx: Error = 0.0032809456170329785
+uma: Error = 0.002870347467039252
+uni: Error = 0.006657893695755828
+wbtc: Error = 1.5054283729319111
+yfi: Error = 13.576582797409841
+zec: Error = 0.02175120554927533
+zrx: Error = 0.0004823360878881443

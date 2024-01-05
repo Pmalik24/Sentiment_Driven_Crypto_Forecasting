@@ -1,0 +1,52 @@
+AML : Anti-Money Laundering
+ATH : All-Time High
+ATL : All-Time Low
+ALT : Alternative Cryptocurrency
+Altcoin : Alternative Cryptocurrency 
+CEX : Centralized Exchange
+CMC : Coinmarketcap
+DAICO : Decentralized Autonomous Initial Coin Offering
+DCA : Dollar Cost Averaging
+DeFi : Decentralized Finance
+DEX : Decentralized Exchange
+DLT : Distributed Ledger Technology
+ETF : Exchange-Traded Fund
+ETP : Exchange-Traded Product
+FIAT : Conventional government-issued currency 
+IBO : Initial Bounty Offering
+ICO : Initial Coin Offering
+ITO : Initial Token Offering
+mBTC : 0.001 Bitcoin
+MCAP : Market Capitalization
+PnD : Pump-and-Dump scheme
+OTC : Over the Counter
+SATS : 0.00000001 Bitcoin
+STO : Securities Token Offering
+TPS : Transactions Per Second
+Tx : Transaction
+TxID : Transaction Identification
+uBTC : 0.000001 Bitcoin
+UXTO : Unspent Transaction
+BUIDL : Build
+FOMO : Fear of Missing Out
+HODL : Hold On for Dear Life 
+BTD : Buy The Dip
+BTFD : Buy the Fucking Dip
+DYOR : Do Your Own Research
+FUDster : Person Spreding Fear, Uncertainty, and Doubt
+JOMO : Joy of Missing Out
+KYC : Know Your Customer
+Lambo : Lamborghini
+TLT : Think Long Term
+OCO : One Cancels the Other
+AMA : Ask Me Anything
+REKT : Wrecked
+TOR : The Onion Router
+CT : Crypto Twitter
+SEC : Securities and Exchange Commission
+FTC : Federal Trade Commission
+CFTC : Commodity Futures Trading Commission
+FDIC : Federal Deposit Insurance Corporation
+DOJ : Department of Justice
+ERC-20 : Standard Token for Ethereum
+ERC-721 : Standard Token for Non Fungible Tokens

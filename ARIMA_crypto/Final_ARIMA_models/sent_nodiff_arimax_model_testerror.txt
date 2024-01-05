@@ -1,0 +1,17 @@
+Prediction error for aave: 0.08994690264705392
+Prediction error for algo: 0.001544080845970254
+Prediction error for atom: 0.005749028038817547
+Prediction error for btc: 1.3741354045937144
+Prediction error for dai: 0.0019982921326286048
+Prediction error for etc: 0.007507029061620727
+Prediction error for eth: 0.24217534560304405
+Prediction error for fil: 0.022308075870839512
+Prediction error for knc: 0.0007942840542406668
+Prediction error for link: 0.007038611168337327
+Prediction error for snx: 0.008251142411658967
+Prediction error for uma: 0.0026117202494834856
+Prediction error for uni: 0.002129199286722082
+Prediction error for wbtc: 0.9589933763337966
+Prediction error for yfi: 58.04760949642795
+Prediction error for zec: 0.10006389210051302
+Prediction error for zrx: 0.00023194557800240029

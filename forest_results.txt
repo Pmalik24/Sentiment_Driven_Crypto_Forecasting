@@ -1,0 +1,99 @@
+Mean Squared Error: 55639.252302066445
+R^2 Score: 0.9997259534266807
+Features Index(['Market Cap', 'high', 'low', 'open', 'prev_open', 'prev_close',
+       'prev_high', 'prev_low', '2yr_yield', '5yr_yield', '7yr_yield'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 28023.805277061645
+R^2 Score: 0.9998619710458032
+Features Index(['Market Cap', 'high', 'low', 'open', 'prev_open', 'prev_close',
+       'prev_high', 'prev_low', '2yr_yield', '5yr_yield', '7yr_yield',
+       '10yr_yield', 'daily_price_change', 'daily_pct_change',
+       'intraday_volatility', '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 29606.067771207905
+R^2 Score: 0.9998541777416757
+Features Index(['Market Cap', 'high', 'low', 'open', '2yr_yield', '5yr_yield',
+       '7yr_yield', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 28514.596853591414
+R^2 Score: 0.999859553692151
+Features Index(['Market Cap', 'high', 'low', 'open', 'prev_open', 'prev_close',
+       'prev_high', 'prev_low', '2yr_yield', '5yr_yield', '7yr_yield',
+       '10yr_yield', 'daily_price_change', 'daily_pct_change',
+       'intraday_volatility', '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 200, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 32822.39875500482
+R^2 Score: 0.9998383359672395
+Features Index(['Market Cap', 'open', 'prev_open', 'prev_close', 'prev_high',
+       'prev_low', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'daily_price_change', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 2470843.5691839047
+R^2 Score: 0.9878300626746956
+Features Index(['Market Cap', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'daily_price_change', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 0.011235768924313256
+R^2 Score: 0.9998637439317212
+Features Index(['Market Cap', 'high', 'low', 'open', 'prev_open', 'prev_close',
+       'prev_high', 'prev_low', '2yr_yield', '5yr_yield', '7yr_yield',
+       '10yr_yield', 'daily_price_change', 'daily_pct_change',
+       'intraday_volatility', '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 0.01354460738241811
+R^2 Score: 0.99983574466859
+MAPE: 2.9486147489751304
+Features Index(['Market Cap', 'open', 'prev_open', 'prev_close', 'prev_high',
+       'prev_low', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'daily_price_change', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 0.02606712480400051
+R^2 Score: 0.999683884212905
+MAPE: 4.722853729588623
+Features Index(['Market Cap', 'open', 'prev_open', 'prev_close', 'prev_high',
+       'prev_low', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'daily_price_change', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': 20, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 0.013806327736119261
+R^2 Score: 0.9998325707882242
+MAPE: 2.9486147489751304
+Features Index(['Market Cap', 'open', 'prev_open', 'prev_close', 'prev_high',
+       'prev_low', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'positive', 'negative', 'neutral', 'daily_price_change',
+       'daily_pct_change', 'intraday_volatility', '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------
+Mean Squared Error: 0.01354460738241811
+R^2 Score: 0.99983574466859
+MAPE: 2.9486147489751304
+Features Index(['Market Cap', 'open', 'prev_open', 'prev_close', 'prev_high',
+       'prev_low', '2yr_yield', '5yr_yield', '7yr_yield', '10yr_yield',
+       'daily_price_change', 'daily_pct_change', 'intraday_volatility',
+       '7_day_rolling_vol'],
+      dtype='object')
+ Parameters {'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+---------

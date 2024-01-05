@@ -1,0 +1,60 @@
+AMA	Ask Me Anything
+APR	Annual Percentage Rate
+APY	Annual Percentage Yield
+ATH	All-Time High
+ATL	All-Time Low
+BFT	Byzantine Fault Tolerance
+BIP	Bitcoin Improvement Proposal
+BTD	Buy The Dip
+CEX	Centralized Exchange
+CMC	Coinmarketcap
+CT	Crypto Twitter
+DAICO	Decentralized Autonomous Initial Coin Offering
+DAO	Decentralized Autonomous Organization
+DApp	Decentralized Application
+DCA	Dollar-Cost Averaging
+DeFi	Decentralized Finance
+DEX	Decentralized Exchange
+DLT	Distributed Ledger Technology
+DPoS	Delegated Proof of Stake
+DYOR	Do Your Own Research
+EEA	Enterprise Ethereum Alliance
+EIP	Ethereum Improvement Proposal
+ERC	Ethereum Request for Comments
+EVM	Ethereum Virtual Machine
+FA	Fundamental Analysis
+FOMO	Fear of Missing Out$
+FUD	Fear, Uncertainty, Doubt
+HODL	Hold On for Dear Life
+IBO	Initial Bounty Offering
+ICO	Initial Coin Offering
+ITO	Initial Token Offering
+JOMO	Joy of Missing Out
+KYC	Know Your Customer
+LN	Lightning Network
+MACD	Moving Average Convergence Divergence
+MCAP	Market Capitalization
+MoE	Medium of Exchange
+NFT	Non Fungible Token
+OCO	One Cancels the Other
+P2P	Peer to Peer
+PnD	Pump-and-Dump
+PoA	Proof of Authority
+PoB	Proof of Burn
+PoD	Proof of Developer
+PoS	Proof of Stake
+PoW	Proof of Work
+SATS	Satoshis
+SC	Smart Contract
+SegWit	Segregated Witness
+SoV	Store of value
+STO	Securities Token Offering
+TA	Technical Analysis or Trend Analysis
+TLT	Think Long Term
+TOR	The Onion Router
+TPS	Transactions Per Second
+Tx	Transaction
+TxID	Transaction Identification
+UoA	Unit of Account
+UXTO	Unspent Transaction
+YTD	Year to Date
